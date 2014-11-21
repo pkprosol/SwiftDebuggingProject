@@ -2,8 +2,8 @@
 //  DebuggingProjectTests.swift
 //  DebuggingProjectTests
 //
-//  Created by Piotr Prosol on 11/21/14.
-//  Copyright (c) 2014 Piotr Prosol. All rights reserved.
+//  Created by Thinkful on 11/21/14.
+//  Copyright (c) 2014 Thinkful. All rights reserved.
 //
 
 import UIKit

@@ -10,31 +10,31 @@
 	<string>DebuggingProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>0013612ED1CFDD9C87D7E40BC436E95639103452</key>
-		<string>github.com:Thinkful-Ed/curric-ios-002-v2.git</string>
+		<key>9BAEED566BF194184622390EDC67ED1D791138E1</key>
+		<string>github.com:pkprosol/SwiftDebuggingProject.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>content/3.3.3_Debugging_Project_Part3/DebuggingProject/DebuggingProject.xcodeproj</string>
+	<string>DebuggingProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0013612ED1CFDD9C87D7E40BC436E95639103452</key>
-		<string>../../../../..</string>
+		<key>9BAEED566BF194184622390EDC67ED1D791138E1</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:Thinkful-Ed/curric-ios-002-v2.git</string>
+	<string>github.com:pkprosol/SwiftDebuggingProject.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0013612ED1CFDD9C87D7E40BC436E95639103452</string>
+	<string>9BAEED566BF194184622390EDC67ED1D791138E1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0013612ED1CFDD9C87D7E40BC436E95639103452</string>
+			<string>9BAEED566BF194184622390EDC67ED1D791138E1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>curric-ios-002-v2</string>
+			<string>DebuggingProject</string>
 		</dict>
 	</array>
 </dict>

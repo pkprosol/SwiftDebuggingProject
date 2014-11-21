@@ -405,6 +405,7 @@
 				F4011C511A1F180800BFE0EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4011C521A1F180800BFE0EC /* Build configuration list for PBXNativeTarget "DebuggingProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				F4011C541A1F180800BFE0EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
