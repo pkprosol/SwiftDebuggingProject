@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D37B4CC3-6BA5-432E-B2A2-20C1C796DEC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DebuggingProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0013612ED1CFDD9C87D7E40BC436E95639103452</key>
+		<string>github.com:Thinkful-Ed/curric-ios-002-v2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>content/3.3.3_Debugging_Project_Part3/DebuggingProject/DebuggingProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0013612ED1CFDD9C87D7E40BC436E95639103452</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Thinkful-Ed/curric-ios-002-v2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0013612ED1CFDD9C87D7E40BC436E95639103452</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0013612ED1CFDD9C87D7E40BC436E95639103452</string>
+			<key>IDESourceControlWCCName</key>
+			<string>curric-ios-002-v2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
