@@ -18,7 +18,7 @@ class ViewController: UIViewController {
             return randomNumber
         }
         
-        func createUserGuessArray() -> Array<Int> {
+        func createUserGuessArray() -> [Int] {
             var resultsArray = [Int]()
             for index in 1...3 {
                 var randomNumber = getRandomNumber()
