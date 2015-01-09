@@ -34,10 +34,10 @@ class ViewController: UIViewController {
     }
     
     func playGame() {
-        var randomNumber = getRandomNumber()
-        println(randomNumber)
+        let randomNumber = getRandomNumber()
+        println("Random number: \(randomNumber)")
         var userGuesses = createUserGuessArray()
-        println(userGuesses)
+        println("User guesses: \(userGuesses)")
         var result: String?
         
         for userGuess in userGuesses {
