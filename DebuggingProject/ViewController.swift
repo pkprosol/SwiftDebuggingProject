@@ -17,6 +17,7 @@ class ViewController: UIViewController {
             playGame()
         }
     }
+    
     func getRandomNumber() -> Int {
         let randomNumber = Int(arc4random_uniform(10)) + 1
         return randomNumber
